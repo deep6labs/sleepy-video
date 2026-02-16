@@ -1,0 +1,25 @@
+# Sleepy YouTube Factory - Input Specification (v1)
+# Use this file to define a new video project.
+
+# Project Metadata
+project_name: "philosophy_stoicism_01"
+niche: "Philosophy"
+target_duration_mins: 180
+
+# Phase 1: Topic & Research
+topic_phrase: "Stoic Wisdom for Modern Anxiety"
+seed_keywords: ["Marcus Aurelius", "Seneca", "Epictetus", "Meditation", "Inner Peace"]
+fact_count_target: 100
+
+# Phase 6: Script Parameters
+tone: "calm, neutral, sleep-friendly"
+pacing: "slow"
+word_count_estimate: 30000
+
+# Phase 7/8: Visual & Audio
+visual_style: "matte lo-fi watercolor landscape"
+voice_profile: "en_US-bryce-medium" # Piper TTS voice
+background_music: "ambient_meditation_loop_04" # Local royalty-free file
+
+# Output
+output_format: "1080p_mp4"
